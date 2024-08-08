@@ -44,7 +44,7 @@ The ESP8266 code facilitates communication between the ATmega32P and the Blynk a
 ## Project Video
 
 Watch the project in action: 
-![Watch the video](https://drive.google.com/file/d/1kc_oECiL6HsfZPDcgsufWA9UJ0QXTbst/view?usp=sharing)
+[Watch the video](https://drive.google.com/file/d/1kc_oECiL6HsfZPDcgsufWA9UJ0QXTbst/view?usp=sharing)
 
 
 ## How to Use
