@@ -39,12 +39,12 @@ The ESP8266 code facilitates communication between the ATmega32P and the Blynk a
 
 ## Circuit Diagram
 
-![Circuit Schematic Image](./Data/Hardware_Components.jpg)  <!-- Add your software components image here -->
+![Circuit Schematic Image](./Data/Hardware_Components.jpg)  
 
 ## Project Video
 
-Watch the project in action:  
-![Watch the video](./Data/Description_Video.mp4)
+Watch the project in action: 
+![Watch the video](https://drive.google.com/file/d/1kc_oECiL6HsfZPDcgsufWA9UJ0QXTbst/view?usp=sharing)
 
 
 ## How to Use
@@ -55,5 +55,16 @@ Watch the project in action:
 3. Connect all hardware components as per the circuit diagram.
 4. Open the Blynk app and connect to the ESP8266 module.
 5. Use the app to control motor speed and direction.
+
+## Project in Action Images
+
+### Mobile App displaying the current running speed of the motor
+![Img](./Data/LCD_91.jpg.jpg)
+
+### LCD displaying the current running speed of the motor which is the same on the mobile application.
+![Img](./Data/LCD_091.jpg)
+
+### Changing the motors'speed using Potentiometer
+![Img](./Data/Changing_motor_Speed_from_potentiometer.jpg)
 
 ---
