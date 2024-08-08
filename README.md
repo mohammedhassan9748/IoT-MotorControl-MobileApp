@@ -59,12 +59,12 @@ Watch the project in action:
 ## Project in Action Images
 
 ### Mobile App displaying the current running speed of the motor
-![Img](./Data/LCD_91.jpg.jpg)
+![](./Data/LCD_91.jpg)
 
 ### LCD displaying the current running speed of the motor which is the same on the mobile application.
-![Img](./Data/LCD_091.jpg)
+![](./Data/LCD_091.jpg)
 
 ### Changing the motors'speed using Potentiometer
-![Img](./Data/Changing_motor_Speed_from_potentiometer.jpg)
+![](./Data/Changing_motor_Speed_from_potentiometer.jpg)
 
 ---
